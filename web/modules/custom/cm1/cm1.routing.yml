@@ -1,0 +1,7 @@
+cm1.customPage1:
+  path: '/custompage1'
+  defaults: 
+    _controller: '\Drupal\cm1\Controller\Controller1::customPageContent'
+    _title: 'Something to Learn Everyday'
+  requirements: 
+    _permission: 'access content'

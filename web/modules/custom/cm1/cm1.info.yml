@@ -1,0 +1,5 @@
+name: Custom Module 1
+description: A custom module for basic operations such as creating custom pages, blocks etc.
+type: module
+package: Custom
+core: 8.x
